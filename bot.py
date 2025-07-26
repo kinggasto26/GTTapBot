@@ -1,7 +1,7 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "WEKA_HAPA_BOT_TOKEN_YAKO"
+TOKEN = "8364907543:AAH7qJQIX2cuVUHsMg1wKVfIbooblXtAPy8"
 
 user_data = {}
 
