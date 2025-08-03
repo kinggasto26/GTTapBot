@@ -1,0 +1,6 @@
+let balance = 0;
+
+function tap() {
+  balance += 0.05;
+  document.getElementById("balance").innerText = "Your Balance: " + balance.toFixed(2) + " GTT";
+}
